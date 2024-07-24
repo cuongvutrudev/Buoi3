@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(dequi)\TongMang1_N(dequi)\bin\Debug\TongMang1_N(dequi).exe.config
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(dequi)\TongMang1_N(dequi)\bin\Debug\TongMang1_N(dequi).exe
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(dequi)\TongMang1_N(dequi)\bin\Debug\TongMang1_N(dequi).pdb
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(dequi)\TongMang1_N(dequi)\obj\Debug\TongMang1_N(dequi).exe
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(dequi)\TongMang1_N(dequi)\obj\Debug\TongMang1_N(dequi).pdb

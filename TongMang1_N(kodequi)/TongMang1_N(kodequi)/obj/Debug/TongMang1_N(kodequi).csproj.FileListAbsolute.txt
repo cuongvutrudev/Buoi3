@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(kodequi)\TongMang1_N(kodequi)\bin\Debug\TongMang1_N(kodequi).exe.config
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(kodequi)\TongMang1_N(kodequi)\bin\Debug\TongMang1_N(kodequi).exe
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(kodequi)\TongMang1_N(kodequi)\bin\Debug\TongMang1_N(kodequi).pdb
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(kodequi)\TongMang1_N(kodequi)\obj\Debug\TongMang1_N(kodequi).csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(kodequi)\TongMang1_N(kodequi)\obj\Debug\TongMang1_N(kodequi).exe
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_Buoi3\TongMang1_N(kodequi)\TongMang1_N(kodequi)\obj\Debug\TongMang1_N(kodequi).pdb
